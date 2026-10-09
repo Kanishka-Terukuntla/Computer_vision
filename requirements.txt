@@ -1,0 +1,10 @@
+opencv-python
+numpy
+matplotlib
+pillow
+imutils==0.5.3
+mediapipe
+scikit-image
+scikit-learn
+ipykernel
+ultralytics
